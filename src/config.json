@@ -1,0 +1,15 @@
+{
+  "database": {
+    "user": "user",
+    "password": "pass",
+    "db": "db",
+    "port": "port",
+    "host": "host"
+  },
+  "telegram": {
+    "key": "key",
+    "users": {
+      "username": "idUser"
+    }
+  }
+}
